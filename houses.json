@@ -1,0 +1,71 @@
+{
+  "albumDir": "/images/houses/",
+  "thumbDir": "/thumbnails/",
+  "albums": [
+    {
+      "album": "Modern Room",
+      "type": "Private Room",
+      "dir": "privateroom",
+      "images": [
+        "ffxiv_dx11 2022-08-17 16-01-59-133 .jpg",
+        "ffxiv_dx11 2022-08-17 16-02-03-982 .jpg",
+        "ffxiv_dx11 2022-08-17 16-02-10-448 .jpg",
+        "ffxiv_dx11 2022-08-17 16-02-14-799 .jpg",
+        "ffxiv_dx11 2022-08-17 16-02-18-930 .jpg",
+        "ffxiv_dx11 2022-08-17 16-02-38-213 .jpg",
+        "ffxiv_dx11 2022-08-17 16-02-44-846 .jpg"
+      ]
+    },
+    {
+      "album": "Luxurious Spa",
+      "type": "Medium House",
+      "dir": "luxespa",
+      "images": [
+        "ffxiv_dx11 2022-08-17 16-06-42-673 .jpg",
+        "ffxiv_dx11 2022-08-17 16-06-48-373 .jpg",
+        "ffxiv_dx11 2022-08-17 16-06-51-356 .jpg",
+        "ffxiv_dx11 2022-08-17 16-06-58-423 .jpg",
+        "ffxiv_dx11 2022-08-17 16-07-02-875 .jpg",
+        "ffxiv_dx11 2022-08-17 16-07-15-155 .jpg",
+        "ffxiv_dx11 2022-08-17 16-07-17-121 .jpg",
+        "ffxiv_dx11 2022-08-17 16-07-27-470 .jpg",
+        "ffxiv_dx11 2022-08-17 16-07-31-371 .jpg",
+        "ffxiv_dx11 2022-08-17 16-07-34-388 .jpg"
+      ]
+    },
+    {
+      "album": "NyaNyaPara",
+      "type": "Apartment",
+      "dir": "nyanyancafe",
+      "images": [
+        "ffxiv_dx11 2022-08-17 16-10-33-956 .jpg",
+        "ffxiv_dx11 2022-08-17 16-10-37-172 .jpg",
+        "ffxiv_dx11 2022-08-17 16-10-43-355 .jpg",
+        "ffxiv_dx11 2022-08-17 16-10-47-924 .jpg",
+        "ffxiv_dx11 2022-08-17 16-10-50-724 .jpg",
+        "ffxiv_dx11 2022-08-17 16-10-55-721 .jpg",
+        "ffxiv_dx11 2022-08-17 16-11-02-439 .jpg",
+        "ffxiv_dx11 2022-08-17 16-11-08-822 .jpg"
+      ]
+    },
+    {
+      "album": "Baby Room",
+      "type": "Small",
+      "dir": "bernababy",
+      "images": [
+        "ffxiv_dx11 2022-08-18 10-11-25-275 .jpg",
+        "ffxiv_dx11 2022-08-18 10-11-29-488 .jpg",
+        "ffxiv_dx11 2022-08-18 10-11-37-305 .jpg",
+        "ffxiv_dx11 2022-08-18 10-11-40-538 .jpg",
+        "ffxiv_dx11 2022-08-18 10-11-49-903 .jpg",
+        "ffxiv_dx11 2022-08-18 10-11-53-171 .jpg",
+        "ffxiv_dx11 2022-08-18 10-11-57-670 .jpg",
+        "ffxiv_dx11 2022-08-18 10-12-06-287 .jpg",
+        "ffxiv_dx11 2022-08-18 10-12-21-702 .jpg",
+        "ffxiv_dx11 2022-08-18 10-12-31-618 .jpg",
+        "ffxiv_dx11 2022-08-18 10-12-40-268 .jpg",
+        "ffxiv_dx11 2022-08-18 10-12-50-567 .jpg"
+      ]
+    }
+  ]
+}
